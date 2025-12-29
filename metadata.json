@@ -1,5 +1,5 @@
 {
-  "name": "Copy of LinkOut AI",
-  "description": "A smart redirection utility that helps open links in your device's native browser, featuring AI-powered link analysis and safety checks.",
+  "name": "Quick Redirect",
+  "description": "Automatic random link redirector.",
   "requestFramePermissions": []
 }
